@@ -21,8 +21,8 @@ Please feel free to share your valuable feedback with us at feedback@touguang.or
 
 
 
-![Screenshot](https://raw.githubusercontent.com/touguang/guang/main/apk1.PNG)
-![Screenshot](https://raw.githubusercontent.com/touguang/guang/main/apk2.PNG)
+![Screenshot](https://raw.githubusercontent.com/touguang/guang/main/apk1.PNG)    ![Screenshot](https://raw.githubusercontent.com/touguang/guang/main/apk2.PNG)    
+
 
 
 ![Screenshot](https://raw.githubusercontent.com/touguang/guang/main/msi.png)
