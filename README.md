@@ -5,7 +5,7 @@ We are continually trying to upgrade our application by adding more libraries an
 Please feel free to share your valuable feedback with us at feedback@touguang.org.
 
 
-”偷光”是一组学生创造的Windows和数字文献库。“偷光”致力于提供为我国研究员、学生和专家大量免费的学术文献。
+”偷光”是一组学生创造的安卓和Windows和数字文献库。“偷光”致力于提供为我国研究员、学生和专家大量免费的学术文献。
 
 我们将继续通过加进更多的后台文库和功能来更新“偷光”应用程序， 用户会经常接到更新通知。
 
